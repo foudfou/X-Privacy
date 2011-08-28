@@ -1,0 +1,8 @@
+{
+  "name": "x-private",
+  "fullName": "X-Private",
+  "description": "auto-enables private browsing on site request",
+  "author": "Foudil <foudil.newbie+amo@gmail.com>",
+  "license": "MPL 1.1/GPL 2.0/LGPL 2.1",
+  "version": "0.1"
+}
